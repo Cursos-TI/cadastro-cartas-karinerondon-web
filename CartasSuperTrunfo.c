@@ -10,6 +10,15 @@ int main() {
   // Área para entrada de dados
 
   // Área para exibição dos dados da cidade
+char Cidade[50];
+char Estado[50];
+char Codigo[20];
+int Populacao;
+int PontosTuristicos;
+float Area;
+float PIB; 
+
+
 
 return 0;
 } 
