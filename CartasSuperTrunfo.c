@@ -38,6 +38,9 @@ scanf("%f", &Area);
 
 printf("Digite o PIB: \n");
 scanf("%f", &PIB);
+printf("Cidade:%s - Estado:%s - Codigo:%s" , Cidade,Estado,Codigo);
+printf("Populacao:%d - PontosTuriscos:%d", Populacao,PontosTuristicos);
+printf("Area:%f - PIB:%f",Area,PontosTuristicos);
 
 
 return 0;
